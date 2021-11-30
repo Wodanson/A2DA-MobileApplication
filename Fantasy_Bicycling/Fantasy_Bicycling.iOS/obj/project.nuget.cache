@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6CLMx9xIj7/OOaqB4ihjHe84cECa1RhW7ikHmMdPrpgBs0AtLoD6bIwrTR/ZLNsOrxUElKhMFhnzZgOvU8M7+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\falco\\Documents\\GitHub\\A2DA-MobileApplication\\Fantasy_Bicycling\\Fantasy_Bicycling.iOS\\Fantasy_Bicycling.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\falco\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
